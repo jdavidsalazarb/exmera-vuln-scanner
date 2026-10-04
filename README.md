@@ -1,7 +1,6 @@
 # 🛡️ EXMERA Web Vulnerability Scanner
 
 > **Herramienta de Auditoría de Seguridad Web Automatizada y Pasiva**  
-> *Desarrollada por [Juan David Salazar](https://github.com/jdavidsalazarb) para la comunidad de ciberseguridad.*
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
