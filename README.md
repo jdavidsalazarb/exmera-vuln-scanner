@@ -93,7 +93,7 @@ python exmera_vuln_scanner.py
 ║             EXMERA Web Vulnerability Scanner                 ║
 ║       Auditor de Seguridad Web para Cualquier Dominio/Host   ║
 ║                                                              ║
-║       Desarrollado por: Juan David Salazar                   ║
+║                                                              ║
 ╚══════════════════════════════════════════════════════════════╝
 
 🎯 Ingresa la URL o host a auditar (ej: https://mi-sitio.com o localhost:3000):
@@ -164,10 +164,6 @@ Cada ejecución guarda un archivo `audit_report_YYYYMMDD_HHMMSS.json` con la inf
 
 ---
 
-
-## ⚖️ Licencia y Uso Ético
-
-Este proyecto está bajo la Licencia **MIT** - consulta el archivo [LICENSE](LICENSE) para más detalles.
 
 > **Aviso de Responsabilidad:** Esta herramienta fue creada exclusivamente con fines educativos, de auditoría defensiva y de fortalecimiento de postura de seguridad. El autor no se hace responsable del uso indebido fuera de entornos autorizados.
 
