@@ -1,7 +1,7 @@
 # EXMERA Web Vulnerability Scanner - Escáner de Vulnerabilidades Web en Python
 
 > **Herramienta Open-Source de Auditoría de Seguridad Web Automatizada y Escaneo Pasivo**  
-> *Desarrollada por [Juan David Salazar](https://github.com/jdavidsalazarb) para la comunidad de Ethical Hacking y Ciberseguridad.*
+
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Security Standard](https://img.shields.io/badge/OWASP-Top%2010%20Coverage-orange.svg)](https://owasp.org/)
