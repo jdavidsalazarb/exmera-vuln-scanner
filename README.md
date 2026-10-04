@@ -104,8 +104,7 @@ python exmera_vuln_scanner.py
 ```text
 ╔══════════════════════════════════════════════════════════════╗
 ║             EXMERA Web Vulnerability Scanner                 ║
-║       Auditoría de Seguridad Web Automatizada y Pasiva       ║
-║       Desarrollador: Juan David Salazar                      ║
+║       Auditoría de Seguridad Web Automatizada y Pasiva                          ║
 ╚══════════════════════════════════════════════════════════════╝
 
   🎯 Objetivo: https://ejemplo.com
@@ -142,7 +141,6 @@ Cada ejecución guarda un archivo `audit_report_YYYYMMDD_HHMMSS.json` con la inf
 ```json
 {
   "metadata": {
-    "author": "Juan David Salazar",
     "tool": "EXMERA Web Vulnerability Scanner",
     "target": "https://ejemplo.com",
     "timestamp": "2026-10-04T12:00:15.123456",
@@ -164,17 +162,6 @@ Cada ejecución guarda un archivo `audit_report_YYYYMMDD_HHMMSS.json` con la inf
 
 ---
 
-## 🤝 Contribuciones y Comunidad
-
-Las contribuciones son bienvenidas. Si deseas agregar nuevos vectores de prueba pasiva, mejorar las expresiones regulares o reportar un falso positivo:
-
-1. Haz un Fork del proyecto.
-2. Crea una rama para tu feature (`git checkout -b feature/NuevoModulo`).
-3. Realiza tus cambios y haz commit (`git commit -m 'feat: Agrega módulo de inspección DNSSEC'`).
-4. Haz push a la rama (`git push origin feature/NuevoModulo`).
-5. Abre un **Pull Request**.
-
----
 
 ## ⚖️ Licencia y Uso Ético
 
