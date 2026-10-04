@@ -1,6 +1,7 @@
-# 🛡️ EXMERA Web Vulnerability Scanner
+# EXMERA Web Vulnerability Scanner - Escáner de Vulnerabilidades Web en Python
 
-> **Herramienta de Auditoría de Seguridad Web Automatizada y Pasiva**  
+> **Herramienta Open-Source de Auditoría de Seguridad Web Automatizada y Escaneo Pasivo**  
+> *Desarrollada por [Juan David Salazar](https://github.com/jdavidsalazarb) para la comunidad de Ethical Hacking y Ciberseguridad.*
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
 [![Security Standard](https://img.shields.io/badge/OWASP-Top%2010%20Coverage-orange.svg)](https://owasp.org/)
@@ -8,13 +9,15 @@
 
 ---
 
-## 📋 Descripción
+## 🔍 ¿Qué es EXMERA Vuln Scanner?
 
-**EXMERA Web Vulnerability Scanner** es una herramienta ligera, rápida y 100% no invasiva diseñada para realizar auditorías de seguridad perimetral sobre cualquier aplicación web.
+**EXMERA Web Vulnerability Scanner** es una herramienta de ciberseguridad open-source escrita en **Python**, diseñada específicamente para realizar escaneos pasivos y auditorías de seguridad web sin levantar sospechas en firewalls (WAF) ni afectar servidores de producción. 
 
-Analiza configuraciones de transporte, cabeceras HTTP recomendadas por **OWASP**, fuga de información en el frontend, políticas de acceso cross-origin (CORS), riesgos en la cadena de suministro (SRI) y vulnerabilidades conocidas en bibliotecas JavaScript de terceros.
+Si buscas un **escáner de vulnerabilidades en Python** que sea rápido, ligero y 100% no invasivo, EXMERA es la solución ideal para analistas de seguridad, pentesters e integraciones en DevSecOps.
 
-Al finalizar la auditoría, genera un puntaje de seguridad (*Security Score*) ponderado de **0 a 100 (Grados A a F)** y un reporte estructurado en formato **JSON** listo para integrarse en flujos de trabajo de DevSecOps.
+Analiza configuraciones de transporte, cabeceras HTTP recomendadas por **OWASP**, descubrimiento pasivo de rutas ocultas, fugas de información, políticas de acceso cross-origin (CORS) y vulnerabilidades conocidas en bibliotecas JavaScript de terceros.
+
+Al finalizar la auditoría, genera un puntaje de seguridad (*Security Score*) ponderado de **0 a 100 (Grados A a F)** y un reporte en formato JSON.
 
 ---
 
