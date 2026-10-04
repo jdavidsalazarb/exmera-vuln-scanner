@@ -3,7 +3,6 @@
 > **Herramienta de Auditoría de Seguridad Web Automatizada y Pasiva**  
 
 [![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue.svg?logo=python&logoColor=white)](https://www.python.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Security Standard](https://img.shields.io/badge/OWASP-Top%2010%20Coverage-orange.svg)](https://owasp.org/)
 [![Status](https://img.shields.io/badge/Status-Active%20%26%20Maintained-brightgreen.svg)]()
 
