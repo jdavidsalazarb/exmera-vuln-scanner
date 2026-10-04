@@ -10,7 +10,7 @@
 
 ## 📋 Descripción
 
-**EXMERA Web Vulnerability Scanner** es una herramienta ligera, rápida y 100% no invasiva diseñada para realizar auditorías de seguridad perimetral sobre cualquier aplicación web o servicio en red.
+**EXMERA Web Vulnerability Scanner** es una herramienta ligera, rápida y 100% no invasiva diseñada para realizar auditorías de seguridad perimetral sobre cualquier aplicación web.
 
 Analiza configuraciones de transporte, cabeceras HTTP recomendadas por **OWASP**, fuga de información en el frontend, políticas de acceso cross-origin (CORS), riesgos en la cadena de suministro (SRI) y vulnerabilidades conocidas en bibliotecas JavaScript de terceros.
 
